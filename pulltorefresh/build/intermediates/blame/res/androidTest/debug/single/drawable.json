@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/jash/AndroidStudioProjects/ExpandableRecycler2/pulltorefresh/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_top.xml",
+        "source": "/home/jash/AndroidStudioProjects/ExpandableRecycler2/pulltorefresh/build/intermediates/bundles/debug/res/drawable/indicator_bg_top.xml"
+    },
+    {
+        "merged": "/home/jash/AndroidStudioProjects/ExpandableRecycler2/pulltorefresh/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/home/jash/AndroidStudioProjects/ExpandableRecycler2/pulltorefresh/build/intermediates/bundles/debug/res/drawable/indicator_bg_bottom.xml"
+    }
+]
